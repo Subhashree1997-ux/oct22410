@@ -40,5 +40,7 @@ public class EncapsulationClass {
 			this.customerId=0;
 		}
 	}
+	
+	
 
 }
